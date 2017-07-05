@@ -1,0 +1,7 @@
+GitHub-i asagidaki meqsedler ucun istifade etmek olar
+	1.Yazdigimiz kodlari veya her hansi materiallarin backupi kimi saxlamaq ucun
+	2. Bir qruppa olaraq islenilen layihelerde her kesin hansi deyisiklikleri etdiyini daha aydin gormek ucun
+	3. Yazdiginiz kodlarin public olaraq paylasdiginiz zaman hami terefinden gorulduyu ucun sehvlerinizin ve 	     ya kodunuzu daha da tekmillesmesi ucun insanlarin reyini oyrene bilmek.
+	4. Diger insanlarin paylasdigi kodlar  ve ya oyrenmek istediyiniz diger melumatlari bir nov sosial sebeke 	     kimi paylasan insanlardan goture bilersiniz.
+	5. Repository-nin Commit bolmesinde ise bir layihede olan deyisiklikleri tam sekilde gorunduyu ucun her 	     hansi bir sehv ve ya daha evvelki versiyalara qayitmaq mumkundur
+	
